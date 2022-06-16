@@ -1,9 +1,6 @@
 /*
 Jim Moua
 06/16/2022
-CS 2A
-Dave Harden
-Assignment 9.1
 
 This program creates several objects of the class Fraction and performs
 operations on these objects implemented by the class member functions.
